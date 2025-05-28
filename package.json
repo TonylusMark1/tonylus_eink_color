@@ -1,6 +1,6 @@
 {
-  "name": "tonylus_eink_color",
-  "displayName": "tonylus_eink_color",
+  "name": "tonylus-eink-color",
+  "displayName": "tonylus-eink-color",
   "description": "Simple theme for eink kaleido 3 monitors",
   "version": "0.0.1",
   "engines": {
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "tonylus_eink_color",
+        "label": "tonylus-eink-color",
         "uiTheme": "vs",
         "path": "./themes/theme.json"
       }
