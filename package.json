@@ -3,6 +3,7 @@
   "displayName": "tonylus-eink-color",
   "description": "Simple theme for eink kaleido 3 monitors",
   "version": "0.0.1",
+  "repository": "https://github.com/TonylusMark1/tonylus_eink_color",
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -17,5 +18,8 @@
         "path": "./themes/theme.json"
       }
     ]
+  },
+  "scripts": {
+    "package": "vsce package -o ./build/"
   }
 }
